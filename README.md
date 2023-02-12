@@ -12,21 +12,21 @@
   10.types of operators
   11.control structures
   12.looping statement
-#Task1
+# Task 1:
   Input : 23   Output : 5 (2+3 = 5)
   Input : 56   Output : 2 (5+6 = 11 = 1+1 = 2)
-#Task2
+# Task 2:
   Input : 123  Output : one two three
-#Task3
+# Task 3:
   Input : 121  Output : one hundred twenty one
-#Task4 
+# Task 4: 
   Fibonacci Series
-#Task5
+# Task 5:
   Armstrong Number
-#Task6
+# Task 6:
   Reverse a number:
   Input : 1323  Output : 3231 
-#Task7
+# Task 7:
   Add two numbers without using +
-#Task8
+# Task 8:
   Multiple two numbers without using *
